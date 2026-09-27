@@ -1,13 +1,13 @@
 """
 Module 2 — Lesson 2: Control Flow (if / elif / else)
-Student: [your name]
-Date: [date]
+Student: [Rivera, Renz Lui B.]
+Date: [9/27/2026]
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
-[write your own explanation here]
+[This is a quick and simple representation of the conditions statement of if, elif, and else]
 
 
 ============================================
@@ -27,15 +27,21 @@ Write at least one working example below that you
 came up with yourself — not copied from class.
 """
 
-# --- your code example goes here ---
+a = 200
+b = 33
+if b >= a:
+  print("If this runs the condition is true")
+elif a == b:
+  print("If this runs the condition is still true but the if condition is false")
+else:
+  print("If this runs both the conditions are false")
 
 
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-[what's something confusing or easy to get wrong
-about this topic?]
+[Nothing wrong here again or no mistakes rather]
 
 
 ============================================
