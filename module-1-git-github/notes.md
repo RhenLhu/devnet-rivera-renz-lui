@@ -33,14 +33,16 @@
 ```
 # paste your actual commands here
 1. git switch -c module-1
-2.  
+2. git add .
+3. git commit -m "Halfway done"
+4. git push --set-upstream origin module-1
 ```
 
 ---
 
 ## A mistake I made (or one I want to avoid)
 
-[What tripped you up? A confusing error message, committing to the wrong branch, a merge conflict — explain it so a classmate reading this avoids the same mistake.]
+[So far i did no errors, inside the git add, commit and push, but one thing i can say is save before pushing]
 
 ---
 
