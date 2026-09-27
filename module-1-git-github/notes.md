@@ -1,24 +1,28 @@
 # Module 1 — Git & GitHub
 
-**Student:** [your name]
-**Date:** [date]
+**Student:** [Rivera,Renz_Lui_B.]
+**Date:** [9/27/2026]
 
 ---
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
 
-[Write your own explanation here. What problem does Git actually solve? How is GitHub different from Git itself?]
+[The difference between Git and github is that git is the tool or command line that we use like "git add", "git commit", and "git push" while the Github is the website or the one we use to do repositories]
 
 ---
 
 ## Key vocabulary (in your own words)
+- repository: Like the google drive this is our space or folder that we create to work on or store things we did
 
-- repository:
-- commit:
-- branch:
-- push / pull:
-- pull request:
-- merge conflict:
+- commit: This saves the work you added or (git add) wherein you can also leave a message or description on it
+
+- branch: This acts as your own space inside a repository 
+
+- push / pull: push and pull acts like an upload and download, think of it like uploading a post on facebook once you click the upload it post it inside facebook, it's the same as push since once you push the file/folder you added and commited, push uploads it inside your repository, while pull acts as the admin to let the push pass
+
+- pull request: this is the thing you do after pushing since like i said pull acts as the admin to let the push pass, pull request asks to merge with the main file or to give update/edit to the current file inside the main branch 
+
+- merge conflict: this happens when two people edit the exact same line of a file at the same time, it makes the admin compare both codes to know which one to keep 
 
 ---
 
@@ -28,6 +32,8 @@
 
 ```
 # paste your actual commands here
+1. git switch -c module-1
+2.  
 ```
 
 ---
