@@ -1,28 +1,24 @@
 # Module 1 — Git & GitHub
 
-**Student:** [Rivera,Renz_Lui_B.]
-**Date:** [9/27/2026]
+**Student:** [your name]
+**Date:** [date]
 
 ---
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
 
-[The difference between Git and github is that git is the tool or command line that we use like "git add", "git commit", and "git push" while the Github is the website or the one we use to do repositories]
+[Write your own explanation here. What problem does Git actually solve? How is GitHub different from Git itself?]
 
 ---
 
 ## Key vocabulary (in your own words)
-- repository: Like the google drive this is our space or folder that we create to work on or store things we did
 
-- commit: This saves the work you added or (git add) wherein you can also leave a message or description on it
-
-- branch: This acts as your own space inside a repository 
-
-- push / pull: push and pull acts like an upload and download, think of it like uploading a post on facebook once you click the upload it post it inside facebook, it's the same as push since once you push the file/folder you added and commited, push uploads it inside your repository, while pull acts as the admin to let the push pass
-
-- pull request: this is the thing you do after pushing since like i said pull acts as the admin to let the push pass, pull request asks to merge with the main file or to give update/edit to the current file inside the main branch 
-
-- merge conflict: this happens when two people edit the exact same line of a file at the same time, it makes the admin compare both codes to know which one to keep 
+- repository:
+- commit:
+- branch:
+- push / pull:
+- pull request:
+- merge conflict:
 
 ---
 
@@ -32,17 +28,13 @@
 
 ```
 # paste your actual commands here
-1. git switch -c module-1
-2. git add .
-3. git commit -m "Halfway done"
-4. git push --set-upstream origin module-1
 ```
 
 ---
 
 ## A mistake I made (or one I want to avoid)
 
-[So far i did no errors, inside the git add, commit and push, but one thing i can say is save before pushing]
+[What tripped you up? A confusing error message, committing to the wrong branch, a merge conflict — explain it so a classmate reading this avoids the same mistake.]
 
 ---
 
